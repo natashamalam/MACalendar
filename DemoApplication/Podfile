@@ -1,0 +1,9 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'DemoApplication' do
+  
+  # Pods for DemoApplication
+  pod 'MACalendar', :path => '../MACalendar'
+
+end

@@ -1,0 +1,16 @@
+PODS:
+  - MACalendar (1.0.0.3)
+
+DEPENDENCIES:
+  - MACalendar (from `../MACalendar`)
+
+EXTERNAL SOURCES:
+  MACalendar:
+    :path: "../MACalendar"
+
+SPEC CHECKSUMS:
+  MACalendar: deeaeb408df3386f306e37e55752dc522568fa2d
+
+PODFILE CHECKSUM: 84466439c9ffcd611c1a338740ec26b21fad2e55
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+module MACalendar {
+  umbrella header "MACalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
